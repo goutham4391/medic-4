@@ -1,0 +1,22 @@
+HTTrack3.49-2 launched on Tue, 27 Sep 2022 13:00:22 at https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/index.html -O "/home/kumartej/websites/medico4" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:00:24	Warning: 	File not parsed, looks like binary: https://demo.w3layouts.com/robots.txt
+13:01:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): m.servedby-buysellads.com/monetization.js
+13:01:55	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/font-awesome.css)
+13:01:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/images/2.jpg (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/custom.css)
+13:01:55	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/images/3.jpg (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/custom.css)
+13:01:55	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/images/5.jpg (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/custom.css)
+13:01:55	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/ui-bg_glass_65_ffffff_1x400.png (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/jquery-ui.css)
+13:01:55	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/ui-bg_glass_95_fef1ec_1x400.png (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/jquery-ui.css)
+13:01:55	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/ui-bg_flat_0_aaaaaa_40x100.png (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/jquery-ui.css)
+13:01:55	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/images/calender.png (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/jquery-ui.css)
+13:01:56	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/images/2.jpg (from https://demo.w3layouts.com/demos_new/template_demo/22-06-2017/medicate-demo_Free/2121820411/web/css/custom.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 34 seconds : 82 links scanned, 72 files written (3462595 bytes overall) [2214596 bytes received at 23559 bytes/sec], 1949831 bytes transferred using HTTP compression in 46 files, ratio 32%, 3.6 requests per connection
+(8 errors, 3 warnings, 0 messages)
